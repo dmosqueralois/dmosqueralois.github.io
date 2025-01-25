@@ -15,22 +15,3 @@ Recently, I have started exploring applications of algebraic topology and combin
 
 
 In addition to my research and teaching activities, I have been collaborating in the organization of the Galician stage of the Spanish Mathematical Olympiad (OME) since 2018 and in the final Spanish stage in 2019. Since 2024, I have been part of the Galician delegation. I also participate in the Estalmat program, serve as a jury member for research initiation awards (such as the Stephen Hawking prize), and engage in mathematical outreach events for the general public.
-
-# AA #para un encabezado grande
-# ======
-#Site-wide configuration para un encabezado mas pequeño
-# ------
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-
-
-**Markdown generator**
-
