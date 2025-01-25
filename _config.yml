@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "foto_perfil.jpg"
+  avatar           : "profile.png"
   name             : # "David Mosquera Lois"
   pronouns         : # example: "she/her"  
   bio              :  ""
