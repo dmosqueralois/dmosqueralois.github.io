@@ -23,8 +23,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  #- title: "Divulgation"
-   # url: /cv/
+  - title: "Divulgation"
+    url: /cv/
     
   #- title: "Guide"
    # url: /markdown/
