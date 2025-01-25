@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-<div align="justify"> In particular, my research consists of two main interwoven lines. On the one hand, I work in Morse Theory (both discrete and differentiable) and investigate certain homotopy and homology invariants, such as homotopy distance, topological complexity, Lusternik-Schnirelmann (LS) category, or covering type from a more computational approach. To this end, I use cellular, simplicial, homological, and dynamical techniques. On the other hand, I strive not to limit myself to the study of invariants of spaces and objects, but to investigate invariants of maps or morphisms (recovering the original invariants as a particular case) to obtain new results about the former and a deeper understanding of the relationships between them.  </div> <br/>
+<div align="justify"> Specifically, my research revolves around two interconnected main lines. On the one hand, I work in Morse Theory (both discrete and differentiable) and investigate certain homotopy and homology invariants, such as homotopy distance, topological complexity, Lusternik-Schnirelmann (LS) category, or covering type from a more computational approach. To this end, I use cellular, simplicial, homological, and dynamical techniques. On the other hand, I strive not to limit myself to the study of invariants of spaces and objects, but to investigate invariants of maps or morphisms (recovering the original invariants as a particular case) to obtain new results about the former and a deeper understanding of the relationships between them.  </div> <br/>
 
 
 
