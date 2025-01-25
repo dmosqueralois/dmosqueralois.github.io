@@ -15,3 +15,6 @@ Recently, I have started exploring applications of algebraic topology and combin
 
 
 In addition to my research and teaching activities, I have been collaborating in the organization of the Galician stage of the Spanish Mathematical Olympiad (OME) since 2018 and in the final Spanish stage in 2019. Since 2024, I have been part of the Galician delegation. I also participate in the Estalmat program, serve as a jury member for research initiation awards (such as the Stephen Hawking prize), and engage in mathematical outreach events for the general public.
+
+
+If you find my research interesting or have a problem or an idea for a project we could collaborate on, feel free to contact me!
