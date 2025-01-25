@@ -1,3 +1,15 @@
+---
+layout: archive
+title: "Research and Publications"
+permalink: /publications-simpler/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
