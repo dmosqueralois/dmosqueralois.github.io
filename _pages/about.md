@@ -26,4 +26,4 @@ redirect_from:
 
 
 
-<div align="justify"> If you find my research interesting or have a problem or an idea for a project we could collaborate on, feel free to contact me! </div> 
+<div align="justify"> If you find my research interesting, have a problem or an idea for a project we could collaborate on, feel free to contact me! </div> 
