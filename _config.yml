@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "David Mosquera Lois"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "David Mosquera-Lois"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "dmosqueralois/dmosqueralois.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : # "David Mosquera Lois"
+  name             :  "David Mosquera Lois"
   pronouns         : # example: "she/her"  
   bio              :  ""
   location         : "Ourense"
