@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "David Mosquera Lois"
+  name             : # "David Mosquera Lois"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              :  "david.mosquera.lois (at) uvigo (dot) gal"
   location         : "Ourense"
   employer         : "Universidade de Vigo"
   uri              : # URL
-  email            : "david.mosquera.lois (at) uvigo (dot) gal" 
+  email            : #"david.mosquera.lois (at) uvigo (dot) gal" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
