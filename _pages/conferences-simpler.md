@@ -12,7 +12,7 @@ redirect_from:
 ## Rencent Talks at Conferences
 * Algebraic and Discrete Morse Theories. VII Congreso de Jóvenes Investigadores de la Real Sociedad Matemática Española. Bilbao, Spain. 2025.
 * From Euler Calculus to Lefschetz Calculus? European Congress of Mathematics. MS: Applied and Combinatorial Topology. Sevilla, Spain. 2024.
-* Homotopic Distance between maps I. Geometry, Topology and Applications Days. Braga, Portugal. 2024.
+* Homotopic Distance between maps I. Geometry, One Day Meeting on Topology and its Applications. Braga, Portugal. 2024.
 
 
 ## Topology Seminar
