@@ -9,13 +9,13 @@ main:
   #  url: /publications/
 
   - title: "Research and Publications"
-    url: /publications-simpler/
+    url: /RaP/
 
   - title: "Teaching and Students"
-    url: /teaching-simpler/
+    url: /TaS/
 
   - title: "Conferences and Seminars"
-    url: /conferences-simpler/
+    url: /CaS/
 
   #- title: "Talks"
    # url: /talks/    
