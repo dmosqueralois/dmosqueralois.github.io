@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching and Students"
-permalink: /teaching-simpler/
+permalink: /TaS/
 author_profile: true
 redirect_from:
   - /resume
