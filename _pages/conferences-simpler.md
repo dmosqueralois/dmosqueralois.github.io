@@ -17,4 +17,4 @@ redirect_from:
 
 ## Topology Seminar
 
-We run a Topology (in the broad sense) seminar at Santiago de Compostela with some online talks. Feel free to contact me if you are interested in giving a talk. You could even give the talk online without visiting Santiago de Compostela.
+We run a Topology (in the broad sense) seminar at Santiago de Compostela with some online talks. Feel free to contact me if you are interested in giving a talk. 
