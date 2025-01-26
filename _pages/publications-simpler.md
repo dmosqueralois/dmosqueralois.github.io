@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research and Publications"
-permalink: /publications-simpler/
+permalink: /RaP/
 author_profile: true
 redirect_from:
   - /resume
