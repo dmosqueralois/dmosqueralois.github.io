@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Conferences and Seminars"
-permalink: /conferences-simpler/
+permalink: /CaS/
 author_profile: true
 redirect_from:
   - /resume
