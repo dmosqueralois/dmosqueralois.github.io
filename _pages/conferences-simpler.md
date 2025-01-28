@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Conferences and Seminars"
+title: "Conferences and the Topology Seminar"
 permalink: /CaS/
 author_profile: true
 redirect_from:
@@ -18,3 +18,10 @@ redirect_from:
 ## Topology Seminar
 
 We run a Topology (in the broad sense) seminar at Santiago de Compostela with some online talks. Feel free to contact me if you are interested in giving a talk. 
+
+### Last talks:
+
+* Aspectos topológicos de los atractores. Héctor Barge (Universidad Politécnica de Madrid).
+* Superficies solenoidales de tipo finito. Matilde Martínez García (Instituto de Matemática y Estadística Rafael Laguardia de la Facultad de Ingeniería, Uruguay).
+* Witten instanton complexes and applications on stratified pseudomanifolds. Gayana Jayasinghe (University of Illinois at Urbana-Champaign).
+* On some strongly generalized topologies. Jacek Hejduk (Faculty of Mathematics and Computer Science, University of Lodz, Polonia).
