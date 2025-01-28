@@ -19,7 +19,7 @@ redirect_from:
 
 We run a Topology (in the broad sense) seminar at Santiago de Compostela with some online talks. Feel free to contact me if you are interested in giving a talk. 
 
-### Last talks:
+### Recent talks:
 
 * Aspectos topológicos de los atractores. Héctor Barge (Universidad Politécnica de Madrid).
 * Superficies solenoidales de tipo finito. Matilde Martínez García (Instituto de Matemática y Estadística Rafael Laguardia de la Facultad de Ingeniería, Uruguay).
