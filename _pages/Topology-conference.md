@@ -9,10 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<img src="images/Conference on Algebraic Topology Logos.png">
 
-
-![Alt text](https://citmaga.gal/documents/20125/72586/Conference+on+Algebraic+Topology+Logos.png/67dc3cd2-96d9-40f0-aa23-539ced259f58?t=1742291809758)
 
 On April 23 and 24, the Conference on Algebraic Topology will take place at the Faculty of Mathematics (USC), a scientific event that aims to serve as a meeting point between researchers working in algebraic topology, as well as those in related areas, to share their work and results.
 
@@ -49,6 +46,10 @@ There are several hotels within a 3-minute walk from the Faculty and less than a
 * [Eurostars Gran Hotel Santiago](https://www.eurostarshotels.co.uk/eurostars-gran-hotel-santiago.html?_gl=1*9zno5j*_gcl_au*NDEwOTA2Nzg4LjE3NDEzNDE4Njg.*_ga*OTAyNjgzMzEuMTc0MTM0MTg2Nw..*_ga_GZCBH8FT0G*MTc0MjQ3MzY2Ny4zLjEuMTc0MjQ3MzcyMy40LjAuMA..&referer_code=bs2gg11ww)
 
 
-
-
 Don't miss the opportunity to join us! For more information or assistance with your arrival and stay in Santiago, feel free to contact me at: :e-mail: david.mosquera.lois@uvigo.gal
+
+<img src="images/Conference on Algebraic Topology Logos.png">
+
+
+![Alt text](https://citmaga.gal/documents/20125/72586/Conference+on+Algebraic+Topology+Logos.png/67dc3cd2-96d9-40f0-aa23-539ced259f58?t=1742291809758)
+
