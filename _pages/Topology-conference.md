@@ -30,7 +30,8 @@ On April 23 and 24, the Conference on Algebraic Topology will take place at the 
 * :calendar: Dates: April 23-24, 2025.
 * :round_pushpin: Place: Faculty of Mathematics (USC).
 * Registration is free: [Here](https://forms.office.com/pages/responsepage.aspx?id=_HKgooyIIU2zne9Om62FU1_GB4I-GplNntbugHfk3CRUQUI2TEgwUzBFWkVKMFdTVlpZNEtPNUpURC4u&route=shorturl).
-* Submission of abstracts: until 01/04/2025. Send to david.mosquera.lois@uvigo.gal and alejandro.majadas@usc.es indicating in the subject "Abstracts | Conference on Algebraic Topology".
+* Submission of abstracts: until 01/04/2025.
+Send to david.mosquera.lois@uvigo.gal and alejandro.majadas@usc.es indicating in the subject "Abstracts | Conference on Algebraic Topology".
 * Acceptance notification: before 04/04/2025.
 * Registration of participants: until 21/04/2025. 
 * Topics: Algebraic topology, combinatorial topology, computational topology, applied topology, dynamical systems and related topics.
@@ -51,5 +52,5 @@ Don't miss the opportunity to join us! For more information or assistance with y
 <img src="images/Conference on Algebraic Topology Logos.png">
 
 
-![Alt text](https://citmaga.gal/documents/20125/72586/Conference+on+Algebraic+Topology+Logos.png/67dc3cd2-96d9-40f0-aa23-539ced259f58?t=1742291809758)
+![](https://citmaga.gal/documents/20125/72586/Conference+on+Algebraic+Topology+Logos.png/67dc3cd2-96d9-40f0-aa23-539ced259f58?t=1742291809758)
 
