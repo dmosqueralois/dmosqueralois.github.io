@@ -34,7 +34,7 @@ On April 23 and 24, the Conference on Algebraic Topology will take place at the 
 Send to david.mosquera.lois@uvigo.gal and alejandro.majadas@usc.es indicating in the subject "Abstracts | Conference on Algebraic Topology".
 * Acceptance notification: before 04/04/2025.
 * Registration of participants: until 21/04/2025. 
-* Topics: Algebraic topology, combinatorial topology, computational topology, applied topology, dynamical systems and related topics.
+* Topics: algebraic topology, combinatorial topology, computational topology, applied topology, dynamical systems and related topics.
 
  
 # Arriving in Santiago 
