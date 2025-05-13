@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Conferences and the Topology Seminar"
+title: "Topology Seminar"
 permalink: /CaS/
 author_profile: true
 redirect_from:
@@ -10,8 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-
-## Topology Seminar
 
 We run a Topology (in the broad sense) seminar at Santiago de Compostela with some online talks. Feel free to contact me if you are interested in giving a talk. 
 
