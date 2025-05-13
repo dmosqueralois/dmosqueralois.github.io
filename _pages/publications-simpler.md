@@ -52,3 +52,9 @@ o VI Encontro da Mocidade Investigadora - Ciencias. ISBN: 978-84-09-03154-2. pp.
 * Actas del VIII Encuentro de Jóvenes Topólogos. Actas del VIII Encuentro de Jóvenes Topólogos. 3, Real Sociedad
 Matemática Española. 2021.
 * As matemáticas do veciño. Actas do Seminario de Iniciación á Investigación 2019-2020. Universidade de Santiago de Compostela. 2020.
+
+## Rencent Talks at Conferences
+* Algebraic and Discrete Morse Theories. VII Congreso de Jóvenes Investigadores de la Real Sociedad Matemática Española. Bilbao, Spain. 2025.
+* From Euler Calculus to Lefschetz Calculus? European Congress of Mathematics. MS: Applied and Combinatorial Topology. Sevilla, Spain. 2024.
+* Homotopic Distance between maps I. Geometry, One Day Meeting on Topology and its Applications. Braga, Portugal. 2024.
+
