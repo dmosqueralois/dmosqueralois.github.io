@@ -29,7 +29,7 @@ redirect_from:
 * Varadarajan’s theorem on categorical distance in small categories. (with I. Carcacía-Campos and E. Macías-Virgós).
 * Morse-Bott Inequalities for Endomorphisms. (with A.O Majadas-Moure, E. Macías-Virgós and J. Vilches).
 * A combinatorial study of the fixed point index (with J.A. Álvarez-López and A.O Majadas-Moure).
-* A Computational (Co)homological Approach to Contiguity distance (wirh E. Macías-Vigós and A. Méndez-Vázquez).
+* A Computational (Co)homological Approach to Contiguity Distance (wirh E. Macías-Vigós and A. Méndez-Vázquez).
 
 ## Books
 
