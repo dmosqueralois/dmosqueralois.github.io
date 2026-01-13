@@ -24,12 +24,14 @@ redirect_from:
 * Homotopic distance between maps. Math. Proc. Cambridge Philos. Soc. 2021. (with E. Macías-Virgós).
 * Homotopic distance between functors. Journal of Homotopy and Related Structures. 2020.  (with E. Macías-Virgós).
 
+
 ## Preprints
 
 * Sheaf Theoretic Approach to Lefschetz Calculus. (with A.O. Majadas-Moure).
 * Morse-Bott Inequalities for Endomorphisms. (with A.O Majadas-Moure, E. Macías-Virgós and J. Vilches).
 * A combinatorial study of the fixed point index (with J.A. Álvarez-López and A.O Majadas-Moure).
 * A Computational (Co)homological Approach to Contiguity Distance (wirh E. Macías-Vigós and A. Méndez-Vázquez).
+
 
 ## Books
 
@@ -46,6 +48,7 @@ Santiago de Compostela. ISBN: 2171-6536. pp. 9 - 15. 2017.
 * Teoría de Morse: Relacionando dinámica e topoloxía. Libro de resumos correspondentes ás presentacións durante
 o VI Encontro da Mocidade Investigadora - Ciencias. ISBN: 978-84-09-03154-2. pp. 9 - 15. 2018. (in Galician).
 
+
 ## Divulgation 
 
 * Robótica topológica. TEMat. 2017. (In Spanish).
@@ -56,6 +59,7 @@ o VI Encontro da Mocidade Investigadora - Ciencias. ISBN: 978-84-09-03154-2. pp.
 * Actas del VIII Encuentro de Jóvenes Topólogos. Actas del VIII Encuentro de Jóvenes Topólogos. 3, Real Sociedad
 Matemática Española. 2021.
 * As matemáticas do veciño. Actas do Seminario de Iniciación á Investigación 2019-2020. Universidade de Santiago de Compostela. 2020.
+
 
 ## Rencent Talks at Conferences
 * Algebraic and Discrete Morse Theories. VII Congreso de Jóvenes Investigadores de la Real Sociedad Matemática Española. Bilbao, Spain. 2025.
