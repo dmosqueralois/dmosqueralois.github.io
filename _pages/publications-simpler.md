@@ -40,7 +40,6 @@ redirect_from:
 Topología. Universidade de Santiago de Compostela. ISBN 978-84-89390-50-8. 2018. (in Spanich).
 
 
-
 ## Book Chapters
 
 * Robótica topológica. Actas do Seminario de Iniciación á Investigación. As matemáticas do veciño. Universidade de
