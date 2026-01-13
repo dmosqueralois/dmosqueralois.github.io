@@ -12,6 +12,8 @@ redirect_from:
 
 ## Journal Articles
 
+* Baues-Wirsching cohomology and Svarc genus in small categories. Filomat. 2026 (to appear). (with I. Carcacía-Campos and E. Macías-Virgós).
+* Varadarajan's theorem on categorical distance in small categories. Math. Slovaca. 2026 (to appear). (with I. Carcacía-Campos and E. Macías-Virgós).
 * Lefschetz fixed-object and fixed-morphism theorems for acyclic categories. Fixed Point Theory. 2026 (to appear). (with S. Castelo-Mourelle and E. Macías-Virgós).
 * Integration with respect to the Lefschetz number. Journal of Fixed Point Theory and Applications. 2025. (with A.O. Majadas-Moure).
 * Morse-Bott Theory on posets and a homological Lusternik-Schnirelmann Theorem. Journal of Topology and Analysis. 2024. (with D. Fernández Ternero, E. Macías-Virgós and J. A. Vilches).
@@ -24,9 +26,7 @@ redirect_from:
 
 ## Preprints
 
-* Baues-Wirsching cohomology and Svarc genus in small categories (with I. Carcacía-Campos and E. Macías-Virgós).
 * Sheaf Theoretic Approach to Lefschetz Calculus. (with A.O. Majadas-Moure).
-* Varadarajan’s theorem on categorical distance in small categories. (with I. Carcacía-Campos and E. Macías-Virgós).
 * Morse-Bott Inequalities for Endomorphisms. (with A.O Majadas-Moure, E. Macías-Virgós and J. Vilches).
 * A combinatorial study of the fixed point index (with J.A. Álvarez-López and A.O Majadas-Moure).
 * A Computational (Co)homological Approach to Contiguity Distance (wirh E. Macías-Vigós and A. Méndez-Vázquez).
