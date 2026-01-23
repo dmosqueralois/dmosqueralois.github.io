@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Differential, Algebraic, and Combinatorial Topology"
 permalink: /QConf/
 author_profile: false
