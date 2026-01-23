@@ -8,22 +8,8 @@ classes: no-top-nav
 
 {% include base_path %}
 <style>
-/* Hide top navigation/header only on this page */
-.no-top-nav header,
-.no-top-nav .masthead,
-.no-top-nav .site-header,
-.no-top-nav .greedy-nav,
-.no-top-nav nav,
-.no-top-nav .skip-links {
-  display: none !important;
-}
-
-/* Remove the gap left by the header */
-.no-top-nav .initial-content,
-.no-top-nav .page__inner-wrap {
-  padding-top: 0 !important;
-  margin-top: 0 !important;
-}
+header, nav { display: none !important; }
+.initial-content, .page__inner-wrap { padding-top: 0 !important; margin-top: 0 !important; }
 </style>
 
 *A conference honoring the mathematical contributions of Enrique Macías-Virgós, celebrating his 70th birthday.*
