@@ -12,7 +12,7 @@ author_profile: true
 
 * :calendar: Dates: May 7-8, 2026.
 * :round_pushpin: Place: [Faculty of Mathematics (Santiago de Compostela)](https://maps.app.goo.gl/WZcd5STTvySawSY76).
-* :memo: Registration is free: [Here](ENLACE) (open until 21/04/2026).
+* :memo: [Registration](ENLACE) is free (open until 21/04/2026).
 
 
 ## Invited Speakers
