@@ -8,69 +8,47 @@ classes: wide
 
 {% include base_path %}
 
-**A conference honoring the mathematical contributions of Enrique Macías-Virgós  
-on the occasion of his 70th birthday**
+<div style="display:flex; gap:1.5rem; align-items:flex-start; flex-wrap:wrap; margin-top:-0.25rem;">
 
----
+  <div style="flex:1; min-width:280px;">
 
-The **Differential, Algebraic, and Combinatorial Topology** conference will take place on **May 7–8, 2026**, at the **Faculty of Mathematics, Universidade de Santiago de Compostela (USC)**.  
-The event aims to bring together researchers in algebraic topology and related areas to share recent work and foster new collaborations.
+  *A conference honoring the mathematical contributions of Enrique Macías-Virgós,  
+  celebrating his 70th birthday.*
 
-{% capture notice_text %}
-**Quick facts**  
-- 📅 **Dates:** May 7–8, 2026  
-- 📍 **Venue:** Faculty of Mathematics, USC (Santiago de Compostela, Spain)  
-- 📝 **Registration:** Free (link below)  
-- ⏳ **Registration deadline:** April 21, 2026  
-{% endcapture %}
-<div class="notice--info">
-{{ notice_text | markdownify }}
+  [Register (free)](ENLACEURL){: .btn .btn--primary .btn--large }
+
+  <table>
+    <tr><td><strong>Dates</strong></td><td>May 7–8, 2026</td></tr>
+    <tr><td><strong>Venue</strong></td><td>Faculty of Mathematics, Universidade de Santiago de Compostela (USC)</td></tr>
+    <tr><td><strong>Registration deadline</strong></td><td>April 21, 2026</td></tr>
+  </table>
+
+  </div>
+
+  <!-- Uncomment when you have a photo. Put it in: /images/quique.jpg
+  <div style="width:220px; min-width:180px;">
+    <img src="{{ base_path }}/images/quique.jpg" alt="Enrique Macías-Virgós" style="width:100%; border-radius:14px;" />
+  </div>
+  -->
+
 </div>
 
-## Registration
-
-- **Registration form:** [Click here](ENLACEURL)  
-- **Fee:** Free of charge  
-- **Deadline:** April 21, 2026  
-
-> If you need an invitation letter for visa/travel purposes, please contact the organizers.
+The **Differential, Algebraic, and Combinatorial Topology** conference will take place in Santiago de Compostela and aims to bring together researchers in algebraic topology and related areas to share recent work and foster new collaborations.
 
 ## Program
 
-A detailed schedule will be posted here soon.
+The detailed schedule and the conference poster will be posted here soon.
 
-- **Program (PDF):** *(coming soon)*  
-- **Poster:** *(coming soon)*  
-
-<!-- When ready, replace with your poster file (recommended: put it in /images/ and use base_path)
+<!-- Replace with the correct poster when ready (recommended: store it locally in /images/)
 ![Conference poster]({{ base_path }}/images/CaAT2026_poster.png)
 -->
 
 ## Invited Speakers
 
-*(to be confirmed)*
+*(to be announced)*
 
 - AAA
 - AAA
-
-## Venue
-
-**Faculty of Mathematics (USC)**  
-Campus Vida, Santiago de Compostela
-
-*(Optional: add a link to a map here if you want.)*
-
-## Getting to Santiago de Compostela
-
-- ✈️ **Airport (SCQ):** about 20 minutes from the city. Taxis and buses connect the airport with the city center.
-- 🚆 **Train:** the main train station is in the city area and well connected to the center.
-
-## Accommodation
-
-There are several hotels within a short walk of the Faculty of Mathematics and less than a 10-minute walk from the city center:
-
-- [Hotel Exe Peregrino](https://www.eurostarshotels.co.uk/exe-peregrino.html)
-- [Eurostars Gran Hotel Santiago](https://www.eurostarshotels.co.uk/eurostars-gran-hotel-santiago.html)
 
 ## Organizing Committee
 
@@ -79,14 +57,27 @@ There are several hotels within a short walk of the Faculty of Mathematics and l
 - David Mosquera Lois (UVigo)  
 - María José Pereira Sáez (UDC–CITMAga)
 
+<details>
+<summary><strong>Travel and accommodation</strong></summary>
+
+### Getting to Santiago de Compostela
+- ✈️ **Airport (SCQ):** ~20 minutes from the city; taxis and buses connect with the city center.  
+- 🚆 **Train:** the station is in the city area and well connected to the center.
+
+### Accommodation
+Hotels within a short walk of the Faculty of Mathematics:
+- [Hotel Exe Peregrino](https://www.eurostarshotels.co.uk/exe-peregrino.html)
+- [Eurostars Gran Hotel Santiago](https://www.eurostarshotels.co.uk/eurostars-gran-hotel-santiago.html)
+
+</details>
+
 ## Contact
 
-For questions about the conference, registration, or travel logistics, please email:  
+For questions about the conference, registration, or travel logistics:  
 **david.mosquera.lois@uvigo.gal**
 
 ---
 
-<!-- Logos (choose ONE source: local OR external). Recommended: keep a local copy in /images/ -->
 ![Conference logos]({{ base_path }}/images/Conference_on_Algebraic_Topology_Logos.png)
 
 <!-- Alternative external version (uncomment if you prefer)
