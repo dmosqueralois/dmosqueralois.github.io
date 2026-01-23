@@ -12,9 +12,9 @@ classes: wide
 
 
 * :calendar: Dates: May 7-8, 2026.
-* :round_pushpin: Place: Faculty of Mathematics (Santiago de Compostela).
-* Registration is free: [Here](ENLACE).
-* Registration of participants: until 21/04/2026.
+* :round_pushpin: Place: [Faculty of Mathematics (Santiago de Compostela)](https://maps.app.goo.gl/WZcd5STTvySawSY76).
+* Registration is free: [Here](ENLACE) (open until 21/04/2026).
+
 
 ## Program
 
@@ -58,12 +58,5 @@ There are several hotels within a 3-minute walk from the Faculty and less than a
 For questions about the conference, registration, or travel logistics:  
 **david.mosquera.lois@uvigo.gal**
 
----
+--
 
-![Conference logos]({{ base_path }}/images/Conference_on_Algebraic_Topology_Logos.png)
-
-![Conference logos]({{ base_path }}/images/Conference_on_Algebraic_Topology_Logos.png)
-
-<!-- Alternative external version (uncomment if you prefer)
-![](https://citmaga.gal/documents/20125/72586/Conference+on+Algebraic+Topology+Logos.png/67dc3cd2-96d9-40f0-aa23-539ced259f58?t=1742291809758)
--->
