@@ -12,7 +12,7 @@ header, nav { display: none !important; }
 .initial-content, .page__inner-wrap { padding-top: 0 !important; margin-top: 0 !important; }
 </style>
 
-### Differential, Algebraic, and Combinatorial Topology
+# Differential, Algebraic, and Combinatorial Topology
 *A conference honoring the mathematical contributions of Enrique Macías-Virgós, celebrating his 70th birthday.*
 
 
