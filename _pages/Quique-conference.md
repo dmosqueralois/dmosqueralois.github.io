@@ -8,29 +8,13 @@ classes: wide
 
 {% include base_path %}
 
-feature_row:
-  - title: "Registration"
-    excerpt: "Free registration. Deadline: **April 21, 2026**."
-    url: "ENLACEURL"
-    btn_label: "Register"
-    btn_class: "btn--primary"
-  - title: "Dates"
-    excerpt: "**May 7–8, 2026**"
-  - title: "Venue"
-    excerpt: "Faculty of Mathematics, Universidade de Santiago de Compostela (USC), Spain"
----
-
-{% include base_path %}
-
 *A conference honoring the mathematical contributions of Enrique Macías-Virgós, celebrating his 70th birthday.*
 
-{% include feature_row %}
 
-The **Differential, Algebraic, and Combinatorial Topology** conference will take place in Santiago de Compostela and aims to bring together researchers in algebraic topology and related areas to share recent work and foster new collaborations.
-
-<!-- Optional photo block (uncomment when you have it). Put the file in /images/
-<img src="{{ base_path }}/images/quique.jpg" alt="Enrique Macías-Virgós" class="align-right" style="max-width:240px; border-radius:14px;" />
--->
+* :calendar: Dates: May 7-8, 2026.
+* :round_pushpin: Place: Faculty of Mathematics (Santiago de Compostela).
+* Registration is free: [Here](ENLACE).
+* Registration of participants: until 21/04/2026.
 
 ## Program
 
@@ -47,6 +31,19 @@ The detailed schedule and the conference poster will be posted here soon.
 - AAA
 - AAA
 
+## Arriving in Santiago 
+* :airplane: The airport is 20 minutes from the city, with taxis and buses available to the city center.
+* :train: The train station is in the city center.
+
+  
+## Staying in Santiago 
+There are several hotels within a 3-minute walk from the Faculty and less than a 10-minute walk from the city center:
+* [Hotel Exe Peregrino](https://www.eurostarshotels.co.uk/exe-peregrino.html?_gl=1*1xp1mj5*_gcl_au*NDEwOTA2Nzg4LjE3NDEzNDE4Njg.*_ga*OTAyNjgzMzEuMTc0MTM0MTg2Nw..*_ga_GZCBH8FT0G*MTc0MjQ3MzY2Ny4zLjAuMTc0MjQ3MzY2Ny42MC4wLjA.&referer_code=bs2gg11ww)
+* [Eurostars Gran Hotel Santiago](https://www.eurostarshotels.co.uk/eurostars-gran-hotel-santiago.html?_gl=1*9zno5j*_gcl_au*NDEwOTA2Nzg4LjE3NDEzNDE4Njg.*_ga*OTAyNjgzMzEuMTc0MTM0MTg2Nw..*_ga_GZCBH8FT0G*MTc0MjQ3MzY2Ny4zLjEuMTc0MjQ3MzcyMy40LjAuMA..&referer_code=bs2gg11ww)
+
+
+
+
 ## Organizing Committee
 
 - Isaac Carcacía-Campos (USC–CITMAga)  
@@ -54,17 +51,8 @@ The detailed schedule and the conference poster will be posted here soon.
 - David Mosquera Lois (UVigo)  
 - María José Pereira Sáez (UDC–CITMAga)
 
-## Travel
 
-### Getting to Santiago de Compostela
-- ✈️ **Airport (SCQ):** about 20 minutes from the city; taxis and buses connect with the city center.  
-- 🚆 **Train:** the train station is well connected to the city center.
-
-### Accommodation
-Hotels within walking distance of the Faculty of Mathematics:
-- [Hotel Exe Peregrino](https://www.eurostarshotels.co.uk/exe-peregrino.html)
-- [Eurostars Gran Hotel Santiago](https://www.eurostarshotels.co.uk/eurostars-gran-hotel-santiago.html)
-
+  
 ## Contact
 
 For questions about the conference, registration, or travel logistics:  
