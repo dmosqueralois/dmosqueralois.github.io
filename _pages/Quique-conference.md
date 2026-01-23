@@ -1,10 +1,9 @@
 ---
-layout: archive
+layout: single
 title: "Differential, Algebraic, and Combinatorial Topology"
-permalink: /QConf/
+permalink: /CaAT/
 author_profile: true
-redirect_from:
-  - /resume
+classes: wide
 ---
 
 {% include base_path %}
