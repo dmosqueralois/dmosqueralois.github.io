@@ -3,7 +3,7 @@ layout: single
 title: "Differential, Algebraic, and Combinatorial Topology"
 permalink: /CaAT/
 author_profile: true
-classes: wide
+## classes: wide
 ---
 
 {% include base_path %}
