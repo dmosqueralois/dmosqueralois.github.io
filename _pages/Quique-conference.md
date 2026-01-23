@@ -3,7 +3,6 @@ layout: archive
 title: "Differential, Algebraic, and Combinatorial Topology"
 permalink: /QConf/
 author_profile: true
-classes: wide
 ---
 
 {% include base_path %}
