@@ -7,6 +7,20 @@ classes: no-top-nav
 ---
 
 {% include base_path %}
+<style>
+/* Hide top navigation only on this page */
+.no-top-nav .masthead,
+.no-top-nav .greedy-nav,
+.no-top-nav .skip-links {
+  display: none !important;
+}
+
+/* Remove the empty gap left by the header */
+.no-top-nav .initial-content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+</style>
 
 *A conference honoring the mathematical contributions of Enrique Macías-Virgós, celebrating his 70th birthday.*
 
