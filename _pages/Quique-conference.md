@@ -33,7 +33,7 @@ classes: wide
 
 </div>
 
-The **Differential, Algebraic, and Combinatorial Topology** conference will take place in Santiago de Compostela and aims to bring together researchers in algebraic topology and related areas to share recent work and foster new collaborations.
+
 
 ## Program
 
