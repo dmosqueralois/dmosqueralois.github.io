@@ -16,20 +16,16 @@ classes: wide
 * Registration is free: [Here](ENLACE) (open until 21/04/2026).
 
 
-## Program
-
-The detailed schedule and the conference poster will be posted here soon.
-
-<!-- Replace with the correct poster when ready (recommended: store it locally in /images/)
-![Conference poster]({{ base_path }}/images/CaAT2026_poster.png)
--->
-
 ## Invited Speakers
 
 *(to be announced)*
 
 - AAA
 - AAA
+
+
+The detailed schedule will be posted here soon.
+
 
 ## Arriving in Santiago 
 * :airplane: The airport is 20 minutes from the city, with taxis and buses available to the city center.
@@ -58,5 +54,4 @@ There are several hotels within a 3-minute walk from the Faculty and less than a
 For questions about the conference, registration, or travel logistics:  
 **david.mosquera.lois@uvigo.gal**
 
---
 
