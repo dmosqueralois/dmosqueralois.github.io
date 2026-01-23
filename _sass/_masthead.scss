@@ -56,3 +56,14 @@
     font-weight: 700;
   }
 }
+
+
+.no-top-nav .masthead {
+  display: none !important;
+}
+
+
+.no-top-nav .initial-content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
