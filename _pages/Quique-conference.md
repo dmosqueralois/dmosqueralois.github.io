@@ -25,6 +25,7 @@ classes: no-top-nav
   margin-top: 0 !important;
 }
 </style>
+
 *A conference honoring the mathematical contributions of Enrique Macías-Virgós, celebrating his 70th birthday.*
 
 
