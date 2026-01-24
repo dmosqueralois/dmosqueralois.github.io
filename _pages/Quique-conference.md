@@ -6,7 +6,6 @@ author_profile: false
 classes: 
      - wide
      - no-top-nav
-     - qconf
 ---
 
 {% include base_path %}
@@ -15,19 +14,7 @@ header, nav { display: none !important; }
 .initial-content, .page__inner-wrap { padding-top: 0 !important; margin-top: 0 !important; }
 </style>
 
-/* --- Make this page use the width better (only QConf) --- */
-.qconf .page__content,
-.qconf .page__inner-wrap {
-  max-width: none !important;
-}
 
-/* --- Layout system --- */
-.qconf-wrap{
-  width: 100%;
-  max-width: 1400px;   /* increase/decrease if you want */
-  margin: 0 auto;
-  padding: 0 1rem;
-}
      
 # Differential, Algebraic, and Combinatorial Topology
 *A conference honoring the mathematical contributions of Enrique Macías-Virgós, celebrating his 70th birthday.*
