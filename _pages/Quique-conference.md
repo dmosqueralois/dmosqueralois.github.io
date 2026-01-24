@@ -102,7 +102,7 @@ A conference honoring the mathematical contributions of Enrique Macías-Virgós,
   <div class="qconf-row-2">
     <div class="qconf-card">
       <img class="qconf-photo"
-           src="{{ base_path }}/images/fotoQuique.jpeg"
+           src="/images/fotoQuique.jpeg"
            alt="Enrique Macías-Virgós">
     </div>
 
