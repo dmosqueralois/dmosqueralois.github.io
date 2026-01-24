@@ -15,16 +15,18 @@ header, nav { display: none !important; }
 </style>
 
 <style>
-/* Make THIS page wider (override the container that actually limits width) */
-.no-top-nav .initial-content,
-.no-top-nav .page,
-.no-top-nav .page__inner-wrap,
-.no-top-nav .archive {
-  max-width: 1400px !important;  /* prueba 1400; si quieres más: 1600 */
+/* Make this page wider (CSS is embedded here, so it only affects /QConf/) */
+#main,
+.initial-content,
+.page,
+.page__inner-wrap,
+.archive {
+  max-width: 1500px !important;   /* prueba 1500; si quieres más: 1700 */
 }
 
-.no-top-nav .initial-content,
-.no-top-nav .page {
+/* Keep some comfortable side padding */
+#main,
+.initial-content {
   padding-left: 1.25rem !important;
   padding-right: 1.25rem !important;
 }
