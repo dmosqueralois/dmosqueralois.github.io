@@ -37,12 +37,17 @@ header, nav { display: none !important; }
   margin: 0 auto;
 }
 
+
+
+
+
+
 <h1>Differential, Algebraic, and Combinatorial Topology</h1>
 <p><em>A conference honoring the mathematical contributions of Enrique Macías-Virgós, celebrating his 70th birthday.</em></p>
 
 <div class="qconf-row-2">
   <div class="qconf-card">
-    <img class="qconf-photo" src="/images/fotoQuique.jpeg" alt="Enrique Macías-Virgós">
+    <img class="qconf-photo" src="{{ base_path }}/images/fotoQuique.jpeg" alt="Enrique Macías-Virgós">
   </div>
 
   <div class="qconf-card">
