@@ -12,7 +12,7 @@ header, nav { display: none !important; }
 .initial-content, .page__inner-wrap { padding-top: 0 !important; margin-top: 0 !important; }
 </style>
 
-<img src="images/fotoQuique.jpeg"
+<img src="/images/fotoQuique.jpeg"
      alt="Enrique Macías-Virgós"
      class="align-right"
      style="max-width: 260px; border-radius: 14px; margin-top: 0.25rem;">
