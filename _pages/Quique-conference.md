@@ -39,21 +39,25 @@ header, nav { display: none !important; }
 
 .qconf-hero{
   margin-top: 0.75rem;
-  margin-bottom: 1.25rem;
+  margin-bottom: 1rem;
 }
 
 .qconf-subtitle{
   font-style: italic;
   margin-top: 0.25rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.25rem;
 }
 
-.qconf-two{
+.qconf-row-2{
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1.25rem;
   align-items: start;
-  margin: 1rem 0 1.25rem 0;
+  margin: 1.1rem 0;
+}
+
+.qconf-row-1{
+  margin: 1.1rem 0;
 }
 
 .qconf-card{
@@ -75,20 +79,16 @@ header, nav { display: none !important; }
   margin: 0.25rem 0 0 1.1rem;
 }
 
-.qconf-section{
-  margin: 1.25rem 0;
-}
-
 /* Mobile: stack columns */
 @media (max-width: 900px){
-  .qconf-two{ grid-template-columns: 1fr; }
+  .qconf-row-2{ grid-template-columns: 1fr; }
   .qconf-photo{ max-height: 420px; }
 }
 </style>
 
 <div class="qconf-wrap">
 
-  <!-- Block 1: Title + subtitle -->
+  <!-- Row 1: Title + subtitle -->
   <div class="qconf-hero" markdown="1">
 
 # Differential, Algebraic, and Combinatorial Topology
@@ -98,11 +98,11 @@ A conference honoring the mathematical contributions of Enrique Macías-Virgós,
 
   </div>
 
-  <!-- Block 2: two columns (left photo / right date-place-registration) -->
-  <div class="qconf-two">
+  <!-- Row 2: Photo (left) + Key information (right) -->
+  <div class="qconf-row-2">
     <div class="qconf-card">
       <img class="qconf-photo"
-           src="/images/fotoQuique.jpeg"
+           src="{{ base_path }}/images/fotoQuique.jpeg"
            alt="Enrique Macías-Virgós">
     </div>
 
@@ -112,12 +112,12 @@ A conference honoring the mathematical contributions of Enrique Macías-Virgós,
 - :calendar: **Dates:** May 7–8, 2026.  
 - :round_pushpin: **Place:** [Faculty of Mathematics (Santiago de Compostela)](https://maps.app.goo.gl/WZcd5STTvySawSY76).  
 - :memo: **Registration:** [Registration](ENLACE) is free (open until 21/04/2026).  
-
     </div>
   </div>
 
-  <!-- Block 3: Invited Speakers (full width) -->
-  <div class="qconf-section qconf-card" markdown="1">
+  <!-- Row 3: Invited Speakers (full width, separate card) -->
+  <div class="qconf-row-1">
+    <div class="qconf-card" markdown="1">
 ## Invited Speakers
 
 *(to be announced)*
@@ -126,10 +126,11 @@ A conference honoring the mathematical contributions of Enrique Macías-Virgós,
 - AAA  
 
 The detailed schedule will be posted here soon.
+    </div>
   </div>
 
-  <!-- Block 4: two columns (left travel / right staying) -->
-  <div class="qconf-two">
+  <!-- Row 4: Arriving (left) + Staying (right) in parallel -->
+  <div class="qconf-row-2">
     <div class="qconf-card" markdown="1">
 ## Arriving in Santiago
 
@@ -147,8 +148,8 @@ There are several hotels within a 3-minute walk from the Faculty and less than a
     </div>
   </div>
 
-  <!-- Block 5: two columns (left organizing / right contact) -->
-  <div class="qconf-two">
+  <!-- Row 5: Organizing (left) + Contact (right) in parallel -->
+  <div class="qconf-row-2">
     <div class="qconf-card" markdown="1">
 ## Organizing Committee
 
