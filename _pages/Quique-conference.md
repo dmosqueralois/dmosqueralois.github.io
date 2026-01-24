@@ -14,6 +14,12 @@ header, nav { display: none !important; }
 .initial-content, .page__inner-wrap { padding-top: 0 !important; margin-top: 0 !important; }
 </style>
 
+<style>
+.page__content,
+.page__inner-wrap {
+  max-width: 1400px !important;
+}
+</style>
 
      
 # Differential, Algebraic, and Combinatorial Topology
