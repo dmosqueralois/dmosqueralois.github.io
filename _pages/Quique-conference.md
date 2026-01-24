@@ -12,14 +12,15 @@ header, nav { display: none !important; }
 .initial-content, .page__inner-wrap { padding-top: 0 !important; margin-top: 0 !important; }
 </style>
 
-<img src="/images/fotoQuique.jpeg"
-     alt="Enrique Macías-Virgós"
-     class="align-left"
-     style="max-width: 360px; border-radius: 14px; margin-top: 0.25rem;">
      
 # Differential, Algebraic, and Combinatorial Topology
 *A conference honoring the mathematical contributions of Enrique Macías-Virgós, celebrating his 70th birthday.*
 
+
+<img src="/images/fotoQuique.jpeg"
+     alt="Enrique Macías-Virgós"
+     class="align-left"
+     style="max-width: 360px; border-radius: 14px; margin-top: 0.25rem;">
 
 * :calendar: Dates: May 7-8, 2026.
 * :round_pushpin: Place: [Faculty of Mathematics (Santiago de Compostela)](https://maps.app.goo.gl/WZcd5STTvySawSY76).
