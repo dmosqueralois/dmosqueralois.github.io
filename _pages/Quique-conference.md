@@ -12,6 +12,11 @@ header, nav { display: none !important; }
 .initial-content, .page__inner-wrap { padding-top: 0 !important; margin-top: 0 !important; }
 </style>
 
+<img src="{{ base_path }}/images/fotoQuique.jpeg"
+     alt="Enrique Macías-Virgós"
+     class="align-right"
+     style="max-width: 260px; border-radius: 14px; margin-top: 0.25rem;">
+     
 # Differential, Algebraic, and Combinatorial Topology
 *A conference honoring the mathematical contributions of Enrique Macías-Virgós, celebrating his 70th birthday.*
 
