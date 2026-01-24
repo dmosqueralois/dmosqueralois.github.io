@@ -15,16 +15,14 @@ header, nav { display: none !important; }
 </style>
 
 <style>
-/* Make this page wider (CSS is embedded here, so it only affects /QConf/) */
 #main,
 .initial-content,
 .page,
 .page__inner-wrap,
 .archive {
-  max-width: 1500px !important;   /* prueba 1500; si quieres más: 1700 */
+  max-width: none !important;
+  width: 100% !important;
 }
-
-/* Keep some comfortable side padding */
 #main,
 .initial-content {
   padding-left: 1.25rem !important;
