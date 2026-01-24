@@ -10,6 +10,7 @@ classes:
 
 {% include base_path %}
 
+
 <style>
 /* Hide top navigation only on this page */
 header, nav { display: none !important; }
@@ -37,10 +38,40 @@ header, nav { display: none !important; }
   margin: 0 auto;
 }
 
+.qconf-row-2{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.25rem;
+  align-items: start;
+  margin: 1.25rem 0;
+}
 
+.qconf-row-1{
+  margin: 1.25rem 0;
+}
 
+.qconf-card{
+  border: 1px solid rgba(0,0,0,0.10);
+  border-radius: 16px;
+  padding: 1rem 1.1rem;
+  background: rgba(0,0,0,0.015);
+}
 
+.qconf-photo{
+  width: 100%;
+  max-height: 560px;
+  object-fit: cover;
+  border-radius: 16px;
+  display: block;
+}
 
+@media (max-width: 900px){
+  .qconf-row-2{ grid-template-columns: 1fr; }
+  .qconf-photo{ max-height: 420px; }
+}
+</style>
+
+<div class="qconf-wrap">
 
 <h1>Differential, Algebraic, and Combinatorial Topology</h1>
 <p><em>A conference honoring the mathematical contributions of Enrique Macías-Virgós, celebrating his 70th birthday.</em></p>
@@ -109,3 +140,4 @@ header, nav { display: none !important; }
   </div>
 </div>
 
+</div>
