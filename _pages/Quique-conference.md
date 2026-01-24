@@ -28,7 +28,7 @@ header, nav { display: none !important; }
 
 <img src="/images/fotoQuique.jpeg"
      alt="Enrique Macías-Virgós"
-     style="max-width: 1400px; border-radius: 14px; margin-top: 0.25rem;">
+     style="max-width: 1000px; border-radius: 14px; margin-top: 0.25rem;">
 
 * :calendar: Dates: May 7-8, 2026.
 * :round_pushpin: Place: [Faculty of Mathematics (Santiago de Compostela)](https://maps.app.goo.gl/WZcd5STTvySawSY76).
