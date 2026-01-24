@@ -15,9 +15,18 @@ header, nav { display: none !important; }
 </style>
 
 <style>
-.page__content,
-.page__inner-wrap {
-  max-width: 1400px !important;
+/* Make THIS page wider (override the container that actually limits width) */
+.no-top-nav .initial-content,
+.no-top-nav .page,
+.no-top-nav .page__inner-wrap,
+.no-top-nav .archive {
+  max-width: 1400px !important;  /* prueba 1400; si quieres más: 1600 */
+}
+
+.no-top-nav .initial-content,
+.no-top-nav .page {
+  padding-left: 1.25rem !important;
+  padding-right: 1.25rem !important;
 }
 </style>
 
