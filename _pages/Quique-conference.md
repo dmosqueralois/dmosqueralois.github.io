@@ -73,7 +73,7 @@ header, nav { display: none !important; }
 
 <div class="qconf-wrap">
 
-<h1>Differential, Algebraic, and Combinatorial Topology</h1>
+<h1>Differential, Algebraic, and Combinatorial Topology (May 7–8, 2026)</h1>
 <p><em>A conference honoring the mathematical contributions of Enrique Macías Virgós, celebrating his 70th birthday.</em></p>
 
 <div class="qconf-row-2">
