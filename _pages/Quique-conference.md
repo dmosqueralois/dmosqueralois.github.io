@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Differential, Algebraic, and Combinatorial Topology"
+title: "Differential, Algebraic, and Combinatorial Topology (May 7–8, 2026)"
 permalink: /QConf/
 author_profile: false
 classes: 
@@ -94,10 +94,16 @@ header, nav { display: none !important; }
 <div class="qconf-row-1">
   <div class="qconf-card">
     <h2>Invited Speakers</h2>
-    <p><em>(to be announced)</em></p>
     <ul>
-      <li>AAA</li>
-      <li>AAA</li>
+      <li>Jesús Antonio Álvarez López (Universidade de Santiago de Compostela)</li>
+      <li>Michael Farber (Queen Mary University of London)</li>
+      <li>Desamparados Fernández Ternero (Universidad de Sevilla)</li>
+      <li><a href="[https://personal.us.es/rogodi/personal.html]">Rocío González  (Universidad de Sevilla)</a> </li>
+      <li>Xosé Masa (Universidade de Santiago de Compostela)</li>
+      <li><a href="[http://agt.cie.uma.es/~aniceto/]">Aniceto Murillo (Universidad de Málaga)</a> </li>
+      <li>Martintxo Saralegi-Aranguren (Université d'Artois)</li>
+      <li><a href="[https://w3.math.uminho.pt/~lucile/]">Lucile Vandembroucq (Universidade do Minho)</a></li>
+      <li>José Antonio Vilches (Universidad de Sevilla)</li>
     </ul>
     <p>The detailed schedule will be posted here soon.</p>
   </div>
@@ -126,10 +132,12 @@ header, nav { display: none !important; }
   <div class="qconf-card">
     <h2>Organizing Committee</h2>
     <ul>
-      <li>Isaac Carcacía-Campos (USC–CITMAga)</li>
-      <li>Ángel Méndez-Vázquez (USC–CITMAga)</li>
-      <li>David Mosquera Lois (UVigo)</li>
-      <li>María José Pereira Sáez (UDC–CITMAga)</li>
+      <li>Isaac Carcacía Campos (Universidade de Santiago de Compostela–CITMAga)</li>
+      <li>Pedro Martín Méndez </li> 
+      <li>Ángel Méndez Vázquez (Universidade de Santiago de Compostela–CITMAga)</li>
+      <li>David Mosquera Lois (Universidade de Vigo)</li>
+      <li>María José Pereira Sáez (Universidade da Coruña–CITMAga)</li>
+      <li>Esperanza Sanmartín Carbón (Universidade de Vigo)</li>
     </ul>
   </div>
 
