@@ -97,7 +97,7 @@ header, nav { display: none !important; }
     <ul>
       <li>Jesús Antonio Álvarez López (Universidade de Santiago de Compostela)</li>
       <li><a href="https://www.ub.edu/topologia/casacuberta/">Carles Casacuberta  (Universitat Autónoma de Barcelona)</a> </li>
-      <li>Hellen Colman (City Colleges of Chicago)</li>
+      <li><a href="https://www.hellencolman.com/math">Hellen Colman (City Colleges of Chicago)</li>
       <li>Michael Farber (Queen Mary University of London)</li>
       <li>Desamparados Fernández Ternero (Universidad de Sevilla)</li>
       <li><a href="https://personal.us.es/rogodi/personal.html">Rocío González  (Universidad de Sevilla)</a> </li>
