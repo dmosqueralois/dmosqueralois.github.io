@@ -134,13 +134,13 @@ header, nav { display: none !important; }
   <div class="qconf-card">
     <h2>Organizing Committee</h2>
     <ul>
-      <li>Isaac Carcacía Campos (Universidade de Santiago de Compostela–CITMAga)</li>
-      <li>Antonio Gómez Tato (Universidade de Santiago de Compostela–CITMAga)</li>
-      <li>Pedro Martín Méndez (Universidade de Santiago de Compostela)</li> 
-      <li>Ángel Méndez Vázquez (Universidade de Santiago de Compostela–CITMAga)</li>
-      <li>David Mosquera Lois (Universidade de Vigo)</li>
-      <li>María José Pereira Sáez (Universidade da Coruña–CITMAga)</li>
-      <li>Esperanza Sanmartín Carbón (Universidade de Vigo)</li>
+      <li>Isaac Carcacía Campos</li>
+      <li>Antonio Gómez Tato</li>
+      <li>Pedro Martín Méndez</li> 
+      <li>Ángel Méndez Vázquez</li>
+      <li>David Mosquera Lois</li>
+      <li>María José Pereira Sáez</li>
+      <li>Esperanza Sanmartín Carbón</li>
     </ul>
   </div>
 
