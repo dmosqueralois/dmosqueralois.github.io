@@ -149,6 +149,11 @@ header, nav { display: none !important; }
     <p>For questions about the conference, registration, or travel logistics:<br>
     <strong>david.mosquera.lois@uvigo.gal</strong></p>
   </div>
+  <div class="qconf-card">
+    <img class="qconf-photo" src="/images/citmaga.png" alt="">
+    <img class="qconf-photo" src="/images/mate_normal.png" alt="">
+    <img class="qconf-photo" src="/images/xunta.png" alt="">
+  </div>
 </div>
 
 </div>
