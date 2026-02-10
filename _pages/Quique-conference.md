@@ -150,6 +150,7 @@ header, nav { display: none !important; }
     <strong>david.mosquera.lois@uvigo.gal</strong></p>
   </div>
   <div class="qconf-card">
+    <h2>In collaboration with</h2>
     <img class="qconf-photo" src="/images/citmaga.png" alt="">
     <img class="qconf-photo" src="/images/mate_normal.png" alt="">
     <img class="qconf-photo" src="/images/xunta.png" alt="">
