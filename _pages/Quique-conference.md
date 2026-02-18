@@ -115,7 +115,7 @@ header, nav { display: none !important; }
   <div class="qconf-card">
     <h2>Arriving in Santiago</h2>
     <ul>
-      <li>:airplane: The airport is 20 minutes from the city, with taxis and buses available to the city center.</li>
+      <li>:airplane: Santiago de Compostela Airport will be closed during the conference period. You can fly to A Coruña Airport instead, from where it is possible to reach Santiago de Compostela by public transport.</li>
       <li>:train: The train station is in the city center.</li>
     </ul>
   </div>
