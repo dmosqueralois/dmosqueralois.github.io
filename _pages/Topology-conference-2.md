@@ -95,8 +95,17 @@ header, nav { display: none !important; }
   <div class="qconf-card">
     <h2>Invited Speakers</h2>
     <ul>
-      <li>Speaker 1</li>
-      <li>Speaker 2...</li>
+      <li>P. Christopher Staecker (Fairfield University)</li>
+      <li>Michael R. Kelly (Loyola University)</li>
+      <li>Nicholas Scoville (Ursinus College)</li>
+      <li>Lucile </li>
+      <li>(Viruel) </li>
+      <li>(Cristina) </li>
+      <li>(Hector Barge) </li>
+      <li>(Patrice Le Calvez) </li>
+      <li>(Ramon Flores) </li>
+      <li>(Coté) </li>
+      <li>(Marithania) </li>
     </ul>
     <p>The detailed schedule will be posted here soon.</p>
   </div>
