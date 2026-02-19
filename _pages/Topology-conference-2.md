@@ -99,6 +99,7 @@ header, nav { display: none !important; }
       <li>Michael R. Kelly (Loyola University)</li>
       <li>Nicholas Scoville (Ursinus College)</li>
       <li>Lucile </li>
+      <li>Cristina </li>
     </ul>
     <p>The detailed schedule will be posted here soon.</p>
   </div>
