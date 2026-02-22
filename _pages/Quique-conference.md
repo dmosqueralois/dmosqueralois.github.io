@@ -86,14 +86,14 @@ header, nav { display: none !important; }
     <ul>
       <li>:calendar: <strong>Dates:</strong> May 7–8, 2026.</li>
       <li>:round_pushpin: <strong>Place:</strong> <a href="https://maps.app.goo.gl/WZcd5STTvySawSY76">Faculty of Mathematics (Santiago de Compostela)</a>. (Salón de Graos).</li>
-      <li>:memo: <strong>Registration:</strong> <a href="ENLACE">Registration</a> is free (open until 21/04/2026).</li>
+      <li>:memo: <strong>Registration:</strong> <a href="https://forms.office.com/e/ipnTmTXiJE">Registration</a> is free (open until 21/04/2026).</li>
     </ul>
   </div>
 </div>
 
 <div class="qconf-row-1">
   <div class="qconf-card">
-    <h2>Invited Speakers</h2>
+    <h2>Confirmed Speakers</h2>
     <ul>
       <li>Jesús Antonio Álvarez López (Universidade de Santiago de Compostela)</li>
       <li><a href="https://www.ub.edu/topologia/casacuberta/">Carles Casacuberta  (Universitat Autónoma de Barcelona)</a> </li>
