@@ -86,7 +86,7 @@ header, nav { display: none !important; }
     <ul>
       <li>:calendar: <strong>Dates:</strong> May 7–8, 2026.</li>
       <li>:round_pushpin: <strong>Place:</strong> <a href="https://maps.app.goo.gl/WZcd5STTvySawSY76">Faculty of Mathematics (Santiago de Compostela)</a>. (Salón de Graos).</li>
-      <li>:memo: <strong>Registration:</strong> <a href="https://forms.office.com/e/ipnTmTXiJE">Registration</a> is free (open until 21/04/2026).</li>
+      <li>:memo: <strong>Registration:</strong> <a href="https://forms.office.com/e/ipnTmTXiJE">Registration</a> is free (open until 01/04/2026).</li>
     </ul>
   </div>
 </div>
