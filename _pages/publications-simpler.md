@@ -35,7 +35,7 @@ redirect_from:
 
 
 ## Rencent or Future Conferences
-* Algebraic and Discrete Morse Theories. VII Congreso de Jóvenes Investigadores de la Real Sociedad Matemática Española. Bilbao, Spain. 2025.
-* From Euler Calculus to Lefschetz Calculus? European Congress of Mathematics. MS: Applied and Combinatorial Topology. Sevilla, Spain. 2024.
-* Homotopic Distance between maps I. Geometry, One Day Meeting on Topology and its Applications. Braga, Portugal. 2024.
+* I have given the talk: Cálculo de Lefschetz: una nueva herramienta para el análisis topológico de datos. Jornadas de Topología de Datos 2026. Sevilla. 
+* I have given the talk: Integraci´on con respecto al número de Lefschetz. Congreso Bienal de la Real Sociedad Matemática Española 2026. Sesión de la Red Española de Topología. Alicante.
+* I (co)organize Differential, Algebraic, and Combinatorial Topology (May 7–8, 2026). A conference honoring the mathematical contributions of Enrique Macías Virgós, celebrating his 70th birthday. Santiago de Compostela.
 
