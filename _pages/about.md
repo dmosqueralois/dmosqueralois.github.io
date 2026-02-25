@@ -8,12 +8,13 @@ redirect_from:
 ---
 
 
-<div align="justify"> I am an Assistant Professor at the University of Vigo in the Department of Mathematics. My research focuses on the field of algebraic topology and its intersection with combinatorial dynamics, exploring the interaction between both areas and their applications. Recently, I have started exploring applications of algebraic topology and combinatorial dynamics in information aggregation problems.</div> <br/>
+<div align="justify"> I am an Assistant Professor at the University of Vigo in the Department of Mathematics. My research focuses on the field of (combinatorial) (algebraic) topology and its intersection with (combinatorial) dynamics, exploring the interaction between the areas and their applications. Recently, I have started exploring applications of (combinatorial) (algebraic) topology and (combinatorial) dynamics in information aggregation problems. If you are interested, here are some of my publications</div> <br/>
 
 
 
 
 <div align="justify"> In addition to my research and teaching activities, I have been collaborating in the organization of the Galician stage of the Spanish Mathematical Olympiad (OME) since 2018 and in the final Spanish stage in 2019. Since 2024, I have been part of the Galician delegation. I also participate in the Estalmat program, serve as a jury member for research initiation awards (such as the Stephen Hawking prize), and engage in mathematical outreach events for the general public. </div> <br/>
+
 
 
 
