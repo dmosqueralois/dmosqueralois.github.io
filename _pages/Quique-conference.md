@@ -153,7 +153,7 @@ header, nav { display: none !important; }
     <h2>In collaboration with</h2>
     <img class="qconf-photo" src="/images/citmaga.png" alt="">
     <img class="qconf-photo" src="/images/mate_normal.png" alt="">
-    <img class="qconf-photo" src="/images/ret.png" alt="">
+    <img class="qconf-photo" src="/images/ret.png" alt=""> Red Española de Topología
     <img class="qconf-photo" src="/images/xunta.png" alt="">
   </div>
 </div>
