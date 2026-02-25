@@ -2,12 +2,33 @@
 permalink: /
 title: ""
 author_profile: true
+classes:
+  - wide
 redirect_from: 
   - /about/
   - /about.html
 ---
 
 <style>
+/* --- Widen central content area on home page (keep top nav + left sidebar) --- */
+@media (min-width: 80em){
+  .layout--single.wide .page__inner-wrap{
+    max-width: 1400px !important;
+  }
+}
+
+@media (min-width: 64em) and (max-width: 79.999em){
+  .layout--single.wide .page__inner-wrap{
+    max-width: 1200px !important;
+  }
+}
+
+/* Extra robustness (some MM configurations differ slightly) */
+.layout--single.wide .page,
+.layout--single.wide .page__content{
+  width: 100%;
+}
+
 /* --- Home page cards (keeps top nav + left sidebar visible) --- */
 .home-wrap{
   width: 100%;
