@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<div align="justify"> I am an Assistant Professor at the University of Vigo in the Department of Mathematics. My research focuses on the field of (combinatorial) (algebraic) topology and its intersection with (combinatorial) dynamics, exploring the interaction between the areas and their applications. Recently, I have started exploring applications of (combinatorial) (algebraic) topology and (combinatorial) dynamics in information aggregation problems. If you are interested, here are some of my publications</div> <br/>
+<div align="justify"> I am an Assistant Professor at the University of Vigo in the Department of Mathematics. My research focuses on the field of (combinatorial) (algebraic) topology and its intersection with (combinatorial) dynamics, exploring the interaction between the areas and their applications. Recently, I have started exploring applications of (combinatorial) (algebraic) topology and (combinatorial) dynamics in information aggregation problems. If you are interested, [here](https://dmosqueralois.github.io//RaP/) are some of my publications, preprints and activity at recent or future conferences.</div> <br/>
 
 
 
