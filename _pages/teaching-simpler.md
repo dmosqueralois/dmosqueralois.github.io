@@ -47,6 +47,6 @@ redirect_from:
 
 * Isaac Carcacía Campos (Ongoing).
 * Alejandro Omar Majadas Moure (Ongoing).
-* Ángel Méndez Vázquez
+* Ángel Méndez Vázquez (Ongoing).
 * Manuel Arriaza Rincón (Ongoing).
 
