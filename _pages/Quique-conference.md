@@ -96,7 +96,7 @@ header, nav { display: none !important; }
     <h2>Confirmed Speakers</h2>
     <ul>
       <li>Jesús Antonio Álvarez López (Universidade de Santiago de Compostela)</li>
-      <li><a href="https://www.ub.edu/topologia/casacuberta/">Carles Casacuberta  (Universitat Autónoma de Barcelona)</a> </li>
+      <li><a href="https://www.ub.edu/topologia/casacuberta/">Carles Casacuberta  (Universitat de Barcelona)</a> </li>
       <li><a href="https://www.hellencolman.com/math">Hellen Colman (City Colleges of Chicago)</a></li>
       <li>Michael Farber (Queen Mary University of London)</li>
       <li>Desamparados Fernández Ternero (Universidad de Sevilla)</li>
