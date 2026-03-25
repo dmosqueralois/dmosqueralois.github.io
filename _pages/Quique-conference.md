@@ -103,7 +103,7 @@ header, nav { display: none !important; }
       <li><a href="https://personal.us.es/rogodi/personal.html">Rocío González  (Universidad de Sevilla)</a> </li>
       <li>Xosé Masa (Universidade de Santiago de Compostela)</li>
       <li><a href="http://agt.cie.uma.es/~aniceto/">Aniceto Murillo (Universidad de Málaga)</a> </li>
-      <li>Martintxo Saralegi-Aranguren (Université d'Artois)</li>
+      <li><a href="https://www.mesa-lml.fr/ms.html">Martintxo Saralegi-Aranguren (Université d'Artois)</a></li>
       <li><a href="https://w3.math.uminho.pt/~lucile/">Lucile Vandembroucq (Universidade do Minho)</a></li>
       <li>José Antonio Vilches (Universidad de Sevilla)</li>
     </ul>
