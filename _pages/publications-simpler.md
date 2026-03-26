@@ -12,6 +12,7 @@ redirect_from:
 
 ## Journal Articles
 
+* Morse-Bott Inequalities for Endomorphisms. Revista de la Real Academia de Ciencias Exactas, Físicas y Naturales. Serie A. Matemáticas. 2026 (to appear). (with A.O Majadas-Moure, E. Macías-Virgós and J. Vilches). 
 * Baues-Wirsching cohomology and Svarc genus in small categories. Filomat. 2026 (to appear). (with I. Carcacía-Campos and E. Macías-Virgós).
 * Varadarajan's theorem on categorical distance in small categories. Math. Slovaca. 2026 (to appear). (with I. Carcacía-Campos and E. Macías-Virgós).
 * Lefschetz fixed-object and fixed-morphism theorems for acyclic categories. Fixed Point Theory. 2026 (to appear). (with S. Castelo-Mourelle and E. Macías-Virgós).
@@ -28,7 +29,6 @@ redirect_from:
 ## Preprints
 
 * Sheaf Theoretic Approach to Lefschetz Calculus. (with A.O. Majadas-Moure).
-* Morse-Bott Inequalities for Endomorphisms. (with A.O Majadas-Moure, E. Macías-Virgós and J. Vilches).
 * A combinatorial study of the fixed point index (with J.A. Álvarez-López and A.O Majadas-Moure).
 * A Computational (Co)homological Approach to Contiguity Distance (wirh E. Macías-Vigós and A. Méndez-Vázquez).
 
