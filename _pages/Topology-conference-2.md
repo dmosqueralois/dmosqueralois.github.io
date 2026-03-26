@@ -140,8 +140,12 @@ header, nav { display: none !important; }
 
   <div class="qconf-card">
     <h2>Contact</h2>
-    <p>For questions about the conference, registration, or travel logistics:<br>
-    <strong>david.mosquera.lois@uvigo.gal</strong></p>
+    <p>For questions about the conference, registration, or travel logistics:
+      <ul>
+        <li>jesus.alvarez@usc.es</li>
+        <li>alejandro.majadas@usc.es</li>
+        <li>david.mosquera.lois@uvigo.gal</li>
+      </ul></p>
   </div>
   <div class="qconf-card">
     <h2>In collaboration with</h2>
