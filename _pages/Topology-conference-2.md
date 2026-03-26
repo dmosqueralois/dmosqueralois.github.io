@@ -73,7 +73,7 @@ header, nav { display: none !important; }
 
 <div class="qconf-wrap">
 
-<h1>II Conference on Algebraic Topology and Related Topics (July, 1-3, 2026)</h1>
+<h1>II Conference on Algebraic Topology and Related Topics (July 1-3, 2026)</h1>
 <p><em>texto....</em></p>
 
 <div class="qconf-row-2">
@@ -84,9 +84,10 @@ header, nav { display: none !important; }
   <div class="qconf-card">
     <p><strong>Key information</strong></p>
     <ul>
-      <li>:calendar: <strong>Dates:</strong> May 7–8, 2026.</li>
+      <li>:calendar: <strong>Dates:</strong> July, 1-3, 2026.</li>
       <li>:round_pushpin: <strong>Place:</strong> <a href="https://maps.app.goo.gl/WZcd5STTvySawSY76">Faculty of Mathematics (Santiago de Compostela)</a>. (Salón de Graos).</li>
-      <li>:memo: <strong>Registration:</strong> <a href="ENLACE">Registration</a> is free (open until 21/04/2026).</li>
+      <li>:memo: <strong>Registration:</strong> <a href="https://forms.office.com/e/R2rALweNWv">Registration</a> is free (open until 01/06/2026). (Call for abstracts: until 01/05/2026). (Topics: algebraic topology, applied topology, combinatorial topology, computational topology, dynamical systems and related topics).</li>
+      
     </ul>
   </div>
 </div>
@@ -95,11 +96,15 @@ header, nav { display: none !important; }
   <div class="qconf-card">
     <h2>Invited Speakers</h2>
     <ul>
-      <li>P. Christopher Staecker (Fairfield University)</li>
-      <li>Michael R. Kelly (Loyola University)</li>
-      <li>Nicholas Scoville (Ursinus College)</li>
-      <li>Lucile </li>
-      <li>Cristina </li>
+      <li>Cristina Costoya (Universidade de Santiago de Compostela)<li>
+      <li>Michael R. Kelly (Loyola University)<li>
+      <li>Enrique Macías Virgós (Universidade de Santiago de Compostela)<li>
+      <li>María José Pereira Sáez (Universidade da Coruña)<li>
+      <li>Nicholas Scoville (Ursinus College)<li>
+      <li>P. Christopher Staecker (Fairfield University)<li>
+      <li>Álvaro Torras Casas (Universidad de Sevilla)<li>
+      <li>Lucile Vandembroucq (Universidade do Minho)<li>
+      <li>Antonio Viruel (Universidad de Málaga)<li>
     </ul>
     <p>The detailed schedule will be posted here soon.</p>
   </div>
@@ -109,7 +114,7 @@ header, nav { display: none !important; }
   <div class="qconf-card">
     <h2>Arriving in Santiago</h2>
     <ul>
-      <li>:airplane: Santiago de Compostela Airport will be closed during the conference period. You can fly to A Coruña Airport instead, from where it is possible to reach Santiago de Compostela by public transport.</li>
+      <li>:airplane: The airport is 20 minutes from the city, with taxis and buses available to the city center.</li>
       <li>:train: The train station is in the city center.</li>
     </ul>
   </div>
