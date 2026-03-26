@@ -74,7 +74,7 @@ header, nav { display: none !important; }
 <div class="qconf-wrap">
 
 <h1>II Conference on Algebraic Topology and Related Topics (July 1-3, 2026)</h1>
-<p><em>texto....</em></p>
+
 
 <div class="qconf-row-2">
   <div class="qconf-card">
