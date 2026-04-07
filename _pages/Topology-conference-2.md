@@ -155,7 +155,7 @@ header, nav { display: none !important; }
     <h2>In collaboration with</h2>
     <img class="qconf-photo" src="/images/citmaga.png" alt="">
     <img class="qconf-photo" src="/images/mate_normal.png" alt="">
-    <img class="qconf-photo" src="/images/xunta.png" alt="">
+    <img class="qconf-photo" src="/images/ret_logo_con_texto.png" alt="">
   </div>
 </div>
 
