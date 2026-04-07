@@ -103,7 +103,6 @@ header, nav { display: none !important; }
       <li>P. Christopher Staecker (Fairfield University)</li>
       <li>Álvaro Torras Casas (Universidad de Sevilla)</li>
       <li>Lucile Vandembroucq (Universidade do Minho)</li>
-      <li>Antonio Viruel (Universidad de Málaga)</li>
     </ul>
     <p>The detailed schedule will be posted here soon.</p>
   </div>
@@ -135,6 +134,11 @@ header, nav { display: none !important; }
       <li>Jesús Antonio Álvarez López</li>
       <li>Alejandro Omar Majadas Moure</li>
       <li>David Mosquera Lois</li>
+    </ul>
+    <h2>Scientific Committee</h2>
+    <ul>
+      <li>Arturo Espinosa Baro</li>
+      <li>Nicholas Scoville</li>
     </ul>
   </div>
 
