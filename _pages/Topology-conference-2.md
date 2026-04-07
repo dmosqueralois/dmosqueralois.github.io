@@ -78,7 +78,7 @@ header, nav { display: none !important; }
 
 <div class="qconf-row-2">
   <div class="qconf-card">
-    <img class="qconf-photo" src="/images/logo_temp.png" alt="">
+    <img class="qconf-photo" src="/images/Camino de Santiago en línea clara.png" alt="">
   </div>
 
   <div class="qconf-card">
