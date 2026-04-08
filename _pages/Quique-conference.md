@@ -107,7 +107,7 @@ header, nav { display: none !important; }
       <li><a href="https://w3.math.uminho.pt/~lucile/">Lucile Vandembroucq (Universidade do Minho)</a></li>
       <li>José Antonio Vilches (Universidad de Sevilla)</li>
     </ul>
-    <p>The detailed schedule will be posted here soon.</p>
+    <p>The detailed schedule will be posted here soon. Some talks will be in Spanish. </p>
   </div>
 </div>
 
