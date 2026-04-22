@@ -236,8 +236,8 @@ header, nav { display: none !important; }
 
           <tr class="highlight">
             <td class="time">11:00-11:30</td>
-            <td class="event">Break</td>
-            <td class="event">Break</td>
+            <td class="event">COFFEE BREAK</td>
+            <td class="event">COFFEE BREAK</td>
           </tr>
 
           <tr>
@@ -305,7 +305,7 @@ header, nav { display: none !important; }
           <tr>
             <td class="time">20:30</td>
             <td class="event">
-              <span class="simple">DINNER</span>
+              <span class="simple">DINNER (O Dezaseis)</span>
             </td>
             <td class="empty"></td>
           </tr>
