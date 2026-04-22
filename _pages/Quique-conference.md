@@ -355,13 +355,25 @@ header, nav { display: none !important; }
     <p>For questions about the conference, registration, or travel logistics:<br>
     <strong>david.mosquera.lois@uvigo.gal</strong></p>
   </div>
+</div>
 
+<div class="qconf-row-1">
   <div class="qconf-card">
     <h2>In collaboration with</h2>
-    <img class="qconf-photo" src="/images/citmaga.png" alt="">
-    <img class="qconf-photo" src="/images/mate_normal.png" alt="">
-    <img class="qconf-photo" src="/images/ret_logo_con_texto.png" alt="">
-    <img class="qconf-photo" src="/images/xunta.png" alt="">
+    <div class="qconf-logos">
+      <div class="qconf-logo-item">
+        <img src="/images/citmaga.png" alt="CITMAga">
+      </div>
+      <div class="qconf-logo-item">
+        <img src="/images/mate_normal.png" alt="Faculty of Mathematics">
+      </div>
+      <div class="qconf-logo-item">
+        <img src="/images/ret_logo_con_texto.png" alt="Research network">
+      </div>
+      <div class="qconf-logo-item">
+        <img src="/images/xunta.png" alt="Xunta de Galicia">
+      </div>
+    </div>
   </div>
 </div>
 
