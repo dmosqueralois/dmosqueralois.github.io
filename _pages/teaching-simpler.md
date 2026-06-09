@@ -45,8 +45,8 @@ redirect_from:
 
 ## PhD theses
 
-* Isaac Carcacía Campos (Ongoing).
-* Alejandro Omar Majadas Moure (Ongoing).
+* Svarc Genus in fibrations between small categories. Isaac Carcacía Campos. 2026.
+* Étude et applications du nombre de Lefschetz. Alejandro Omar Majadas Moure. 2026.
 * Ángel Méndez Vázquez (Ongoing).
 * Manuel Arriaza Rincón (Ongoing).
 
