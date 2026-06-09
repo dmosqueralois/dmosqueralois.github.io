@@ -37,5 +37,7 @@ redirect_from:
 ## Rencent or Future Conferences
 * I have given the talk: Cálculo de Lefschetz: una nueva herramienta para el análisis topológico de datos. Jornadas de Topología de Datos 2026. Sevilla. 
 * I have given the talk: Integración con respecto al número de Lefschetz. Congreso Bienal de la Real Sociedad Matemática Española 2026. Sesión de la Red Española de Topología. Alicante.
+* I am giving the talk: Homotopic Distance: Combinatorial Models and Computable Lower Bounds. Combinatorial Algebraic Topology & Applications IV. June 21-25. Pisa. Italy.
 * I (co)organize Differential, Algebraic, and Combinatorial Topology (May 7–8, 2026). A conference honoring the mathematical contributions of Enrique Macías Virgós, celebrating his 70th birthday. Santiago de Compostela.
+* I (co)organize II Conference on Algebraic Topology and Related Topics (01-03/07/2026). Santiago de Compostela.
 
