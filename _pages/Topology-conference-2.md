@@ -136,6 +136,7 @@ header, nav { display: none !important; }
     <h2>Organizing Committee</h2>
     <ul>
       <li>Jesús Antonio Álvarez López</li>
+      <li>Laura López Paz</li>
       <li>Alejandro Omar Majadas Moure</li>
       <li>David Mosquera Lois</li>
     </ul>
