@@ -1,0 +1,35 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body class="home-page" id="top">
+    {% include browser-upgrade.html %}
+
+    <a class="home-skip-link" href="#main-content">Skip to content</a>
+
+    <header class="home-nav" aria-label="Primary navigation">
+      <div class="home-nav__inner">
+        <a class="home-nav__name" href="#top">David Mosquera Lois</a>
+        <nav class="home-nav__links" aria-label="Homepage sections">
+          <a href="#research">Research</a>
+          <a href="#teaching-outreach">Teaching &amp; Outreach</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main-content" class="home-main">
+      {{ content }}
+    </main>
+
+    {% include scripts.html %}
+  </body>
+</html>
